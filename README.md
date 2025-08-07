@@ -10,7 +10,6 @@ Hi, I'm **Himanshu Raj Singh**, a Computer Science student at Galgotias Universi
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
 - Responsive Design (Flexbox, Grid)  
 - CSS Animations 
 
