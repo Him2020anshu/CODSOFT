@@ -1,4 +1,4 @@
-# 💼 Web Development Portfolio - CodSoft Internship
+# 💼 Web Development Portfolio - CodSoft Internship 
 
 Welcome to my **Web Development Portfolio** created as a project during my **Web Development Internship at CodSoft**. This responsive and modern portfolio showcases my background, skills, and projects with a stylish UI built using HTML, CSS, and JavaScript. 
 
